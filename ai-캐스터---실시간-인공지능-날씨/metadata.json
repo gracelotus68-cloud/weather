@@ -1,0 +1,7 @@
+{
+  "name": "AI 캐스터 - 실시간 인공지능 날씨",
+  "description": "Gemini AI와 구글 검색 기술을 결합하여 실시간 날씨 정보와 맞춤형 생활 가이드를 제공하는 스마트 날씨 앱입니다.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
